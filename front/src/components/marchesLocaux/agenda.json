@@ -1,0 +1,20 @@
+[
+    {
+        "id": "1",
+        "adresse": "Marché de Lacanau",
+        "dates": "Les mercredis matin",
+        "mapsLink": "https://www.google.fr/maps/place/Lacanau+Oc%C3%A9an,+33680+Lacanau/@45.00263,-1.1962788,17.42z/data=!4m6!3m5!1s0x4801ffc558a23645:0xc02b43d4e1f03569!8m2!3d45.002137!4d-1.194735!16s%2Fg%2F1th1tf1g?entry=ttu"
+    },
+    {
+        "id": "2",
+        "adresse": "Parking de So.bio Le Haillan",
+        "dates": "Les jeudis de 8h à 19h",
+        "mapsLink": "https://maps.app.goo.gl/KhVuYM73TqgKjo5y8"
+    },
+    {
+        "id": "3",
+        "adresse": "Marché de Martignas-sur-Jalles",
+        "dates": "Les dimanches matin",
+        "mapsLink": ""
+    }
+]

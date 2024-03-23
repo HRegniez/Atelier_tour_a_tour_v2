@@ -1,0 +1,73 @@
+[
+    {
+      "id": 1,
+      "url": "/images/gallerie/bijou_01.webp",
+      "alt": "Bijou artisanal"
+    },
+    {
+      "id": 2,
+      "url": "/images/gallerie/bijou_02.webp",
+      "alt": "Bijou en bois"
+    },
+    {
+      "id": 3,
+      "url": "/images/gallerie/bijou_03.webp",
+      "alt": "Bijou fait main"
+    },
+    {
+      "id": 4,
+      "url": "/images/gallerie/cendrier_01.webp",
+      "alt": "Cendrier en bois"
+    },
+    {
+      "id": 5,
+      "url": "/images/gallerie/cendrier_02.webp",
+      "alt": "Cendrier artisanal"
+    },
+    {
+      "id": 6,
+      "url": "/images/gallerie/cendrier_03.webp",
+      "alt": "Cendrier sculpté"
+    },
+    {
+      "id": 7,
+      "url": "/images/gallerie/cendrier_04.webp",
+      "alt": "Création de cendrier"
+    },
+    {
+      "id": 8,
+      "url": "/images/gallerie/cendrier_05.webp",
+      "alt": "Cendrier tourné"
+    },
+    {
+      "id": 9,
+      "url": "/images/gallerie/cendrier_06.webp",
+      "alt": "Cendrier artisanal en bois"
+    },
+    {
+      "id": 10,
+      "url": "/images/gallerie/cendrier_07.webp",
+      "alt": "Creation de cendrier en bois"
+    },
+    {
+      "id": 11,
+      "url": "/images/gallerie/stylo_01.webp",
+      "alt": "Stylo en bois"
+    },
+    {
+      "id": 12,
+      "url": "/images/gallerie/stylo_02.webp",
+      "alt": "Stylo artisanal"
+    },
+    {
+      "id": 13,
+      "url": "/images/gallerie/stylo_03.webp",
+      "alt": "Stylo sculpté"
+    },
+    {
+      "id": 14,
+      "url": "/images/gallerie/toupie_01.webp",
+      "alt": "Toupie artisanale"
+    }
+  ]
+  

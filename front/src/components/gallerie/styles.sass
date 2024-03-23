@@ -1,0 +1,34 @@
+@import '../../variables'
+    
+.gallerie
+    position: relative
+    padding: 2rem
+    &-z 
+        z-index: 5
+    &_contain
+        display: grid
+        grid-template-columns: repeat(3, 1fr)
+        img
+            width: 100%
+    &_gradient
+        position: absolute
+        top: 0
+        left: 0
+        width: 100%
+        height: 100%
+        z-index: -1
+        background: linear-gradient(0deg, rgba(171,163,155,0) 0%, rgba(214,204,194,1) 90%)
+    
+@media screen and (max-width: 768px) 
+    .gallerie
+        &_contain
+            grid-template-columns: repeat(2, 1fr)
+@media screen and (max-width: 450px) 
+    .gallerie
+        &_contain
+            grid-template-columns: repeat(1, 1fr)
+@media screen and (max-width: 375px) 
+    .gallerie
+        padding: 2rem 0
+        h2
+            margin-left: 1rem
