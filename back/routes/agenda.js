@@ -1,15 +1,15 @@
 const express = require('express')
+const {
+    getAgenda,
+    patchAgenda
+} = require("../controllers/agendaController")
 
 const router = express.Router()
 
 // GET agenda
-router.get('/', (req, res) => {
-    res.json({mgg: 'get agenda'})
-})
+router.get('/', getAgenda)
 
 // UPDATE agenda
-router.patch('/', (req, res) => {
-    res.json({msg: 'patch agenda'})
-})
+router.post('/', patchAgenda)
 
 module.exports = router
