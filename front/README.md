@@ -19,7 +19,7 @@ the backend is on it's way, using node js, express and mongo db, considering usi
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./Screenshot.jpg)
 
 
 ### Links
