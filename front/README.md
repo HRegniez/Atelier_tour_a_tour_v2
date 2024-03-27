@@ -1,8 +1,8 @@
 # Atelier Tour à Tour
 
-This website was coded for a friend who is starting a business, i decided to use react, sass for the front-end, as it would help me strengthen the use of these languages.
+This website was created for a friend's new business. React and Sass were chosen for frontend development to sharpen my skills with these languages.
 
-the backend is on it's way, using node js, express and mongo db, considering using the cloudinary tools to manage the gallery
+The backend is in progress, utilizing Node.js, Express, and MongoDB. Cloudinary tools may be integrated for managing the gallery efficiently.
 
 ## Table of contents
 
@@ -44,6 +44,8 @@ In the frontend, the focus is on enhancing user experience through animations to
 #### Backend
 
 The backend will utilize Node.js, Express, and MongoDB to manage data efficiently. Additionally, I'm exploring the integration of Cloudinary to handle the image gallery effectively. This setup will ensure robust functionality and scalability for the project.
+
+Cloudinary tools may be integrated for managing the gallery efficiently.
 
 
 ## Author
